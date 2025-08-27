@@ -72,15 +72,15 @@ Foram implementadas as seguintes classes:
 </p>
 
 
-Testando Iphone
-Ligando...
-Recebendo ligação...
-Instalando o aplicativo WhatsApp no iPhone...
-
-Testando Nokia
-Ligando...
-Recebendo ligação...
-Instalando o aplicativo Telegram no Nokia...
+Testando Iphone<br>
+Ligando...<br>
+Recebendo ligação...<br>
+Instalando o aplicativo WhatsApp no iPhone...<br>
+<br>
+Testando Nokia<br>
+Ligando...<br>
+Recebendo ligação...<br>
+Instalando o aplicativo Telegram no Nokia...<br>
 
 ---
 
