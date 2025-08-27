@@ -41,24 +41,34 @@ Foram implementadas as seguintes classes:
 ## ▶️ Como Executar
 
 1. Clone este repositório:
+
    ```bash
    git clone https://github.com/seu-usuario/trilha-net-poo-desafio.git
+
 2. Acesse a pasta do projeto:
 
-cd trilha-net-poo-desafio
+
+   cd trilha-net-poo-desafio
+
 
 3. Compile o projeto:
 
-dotnet build
+
+   dotnet build
+
 
 4. Execute:
 
-dotnet run
+
+   dotnet run
+   
+
+---
 
 ## 📌 Exemplo de Saída no Console
 
 <p align="center">
-  <img src="assets" alt="Smartphone" width="600">
+  <img src="./Imagens/sistema.jpg" alt="Smartphone" width="600">
 </p>
 
 
@@ -72,6 +82,20 @@ Ligando...
 Recebendo ligação...
 Instalando o aplicativo Telegram no Nokia...
 
+---
+
+## 📄 Descrição do Projeto
+
+**O Desafio POO - Smartphones** é um projeto desenvolvido em C# utilizando .NET 9.0, com foco em Programação Orientada a Objetos (POO).
+O objetivo é simular o funcionamento de diferentes modelos de smartphones, aplicando conceitos como herança, abstração, polimorfismo e encapsulamento.
+
+No projeto, a classe Smartphone funciona como base abstrata, contendo propriedades comuns (como número, modelo, IMEI e memória) e métodos universais (Ligar e ReceberLigacao).
+As classes Iphone e Nokia herdam de Smartphone e implementam o método abstrato InstalarAplicativo, cada uma com seu comportamento específico.
+
+O projeto também serve como exemplo prático de como organizar código orientado a objetos, testando métodos herdados e sobrescritos, e mostrando a aplicação do polimorfismo ao manipular diferentes tipos de smartphones através da classe base.
+
+---
+
 ## ✨ Aprendizados
 
 Aplicação prática de herança e abstração em C#.
@@ -79,4 +103,8 @@ Aplicação prática de herança e abstração em C#.
 Uso de métodos abstratos para forçar a implementação em classes filhas.
 
 Demonstração de polimorfismo ao instanciar objetos da classe base (Smartphone) como Iphone e Nokia.
+
+## 👩‍💻 Autora
+
+Feito com 💜 por Samira 🚀
 
