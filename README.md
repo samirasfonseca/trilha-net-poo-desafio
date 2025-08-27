@@ -41,27 +41,27 @@ Foram implementadas as seguintes classes:
 ## ▶️ Como Executar
 
 1. Clone este repositório:
-
+<br>
    ```bash
    git clone https://github.com/seu-usuario/trilha-net-poo-desafio.git
-
+<br>
 2. Acesse a pasta do projeto:
 
-
+<br>
    cd trilha-net-poo-desafio
-
+<br>
 
 3. Compile o projeto:
-
+<br>
 
    dotnet build
 
-
+<br>
 4. Execute:
-
+<br>
 
    dotnet run
-   
+   <br>
 
 ---
 
